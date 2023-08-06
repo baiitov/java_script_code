@@ -16,10 +16,4 @@ for (let i = 0; i < userName.length; i++) {
 	}
 }
 
-const aziretHandler = () => {
-	setTimeout(() => { 
-		console.log('he he he ')
-	}, 3000)
-}
-
-aziretHandler()
+// siuuu
